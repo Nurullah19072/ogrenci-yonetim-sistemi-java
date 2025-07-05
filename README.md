@@ -66,13 +66,6 @@ java Anasayfa
 
 ---
 
-## 👨‍💻 Geliştirici | Developer
-
-- **Nurullah Yıldırım**  
-- Öğrenci No: `22100011045`
-
----
-
 ## 📄 Lisans | License
 
 MIT License
